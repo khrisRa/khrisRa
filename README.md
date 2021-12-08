@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khrisnajee Ramma
 - 👀 The venture so far in programming has been exciting and i am still on the run to learn different languages and technologies.
-- 🌱 I’m currently learning python to go deeper in the devops/system analyst/software engineer world for fun.
+- 🌱 I’m currently learning python and .NET to engage a career in the devops/system analyst/software engineer.
 - 💞️ I have experience with the following: DART.IO, C#, Python, Javascript, SQL,MSSQL, NOSQL, R, Windev.
 - 📫 Frameworks and SDE: Flutter, Visual studio, Vscode, Android Studio, Pycharm, Netbeans, Eclipse, MongoDB.
 - 🌱 Realease management with bitbucket, google play console.
